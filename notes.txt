@@ -1,0 +1,4 @@
+Project Notes:
+- Fix database schema.
+- Implement element.sh script.
+
