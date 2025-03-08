@@ -1,4 +1,5 @@
 Project Notes:
 - Fix database schema.
 - Implement element.sh script.
-
+- Add README.md FILE.
+- Clean up code.
